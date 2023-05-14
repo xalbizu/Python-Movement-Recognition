@@ -7,7 +7,7 @@ Requirements
     Python 3.x
     OpenCV (cv2) library
 
-Installation
+**Installation**
 
 Make sure you have Python 3.x installed on your system. If not, download and install it from the official Python website (https://www.python.org).
 
@@ -15,7 +15,7 @@ Install the OpenCV library by running the following command:
 
     pip install opencv-python
 
-Usage
+**Usage**
 
 Connect your webcam to the computer.
 
@@ -31,7 +31,7 @@ If there is significant motion detected (adjustable threshold), the frames with 
 
     Press the 'q' key to exit the script and stop the video capture.
 
-Customization
+**Customization**
 
 You can adjust the motion detection sensitivity by modifying the threshold value in the script (30 in the example script). Higher values will require more significant motion to be detected.
 
